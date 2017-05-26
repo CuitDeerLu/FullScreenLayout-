@@ -1,0 +1,2 @@
+# FullScreenLayout-
+wantsFullScreenLayout、edgesForExtendedLayout、automaticallyAdjustsScrollViewInsets 详解
